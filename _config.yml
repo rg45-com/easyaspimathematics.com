@@ -1,0 +1,14 @@
+# Dapper configuration file
+---
+name : Easy as Pi Mathematics
+url: http://www.easyaspimathematics.com
+title: Las Vegas Math Tutor | Easy as Pi Mathematics
+desc: Las Vegas math tutoring - help your child learn to love math!
+keywords: Math Tutor, Mathematics Tutoring, Alegebra, Geometry, Calculus, Multiplication, Division
+
+ignore :
+    - "^\."
+    - "^_"
+    - "^dapper$"
+    - "^creative$"
+    - "^README.md$"
