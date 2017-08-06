@@ -27,3 +27,7 @@ Temporary Items
 .apdisk
 
 creative
+
+#Jekyll specific
+.sass-cache
+.jekyll-metadata

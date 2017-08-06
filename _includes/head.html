@@ -1,0 +1,54 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/images/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/images/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/images/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Web Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:700,400,300' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="/fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+    <link href="/fonts/fontello/css/fontello.css" rel="stylesheet">
+    <link href="/plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
+    <link href="/plugins/rs-plugin-5/css/settings.css" rel="stylesheet">
+    <link href="/plugins/rs-plugin-5/css/layers.css" rel="stylesheet">
+    <link href="/plugins/rs-plugin-5/css/navigation.css" rel="stylesheet">
+    <link href="/css/animations.css" rel="stylesheet">
+    <link href="/plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="/plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="/plugins/hover/hover-min.css" rel="stylesheet">		
+    
+    <link href="/css/style.css" rel="stylesheet" >
+    <link href="/css/typography-default.css" rel="stylesheet" >
+    <link href="/css/skins/vivid_red.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+    
+    {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+    {% endif %}
+  </head>
