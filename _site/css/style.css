@@ -40,6 +40,17 @@ img {
   height: auto;
 }
 
+.img-program {
+    max-width: 450px;
+  }
+
+@media (max-width: 767px) {
+  .img-program {
+    max-width: 300px;
+  }
+}
+
+
 /* Lists
 ---------------------------------- */
 ul {
