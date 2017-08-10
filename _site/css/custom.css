@@ -1,3 +1,7 @@
+body {
+    font-size: 16px;
+}
+
 .red-bg {
   background-color: #c82727;
   color: #ffffff;
@@ -11,4 +15,8 @@
 .blue-bg {
   background-color: #3697d9;
   color: #ffffff;
+}
+
+.plan ul li {
+    font-size: 15px;
 }
