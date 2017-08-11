@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math &amp; Science Summer Camps
+title: Math & Science Summer Camps
 ---
 
 <!-- main start -->

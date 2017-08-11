@@ -21,7 +21,7 @@ title: Math Private Phone Tutoring
            <p>Private tutoring is also available for $40 per hour for registered students and $60 per hour for non-registered students.  Private tutoring sessions must be scheduled in advance.</p>      
         </div>
         <div class="col-md-5 pull-md-7">
-          <img src="/images/overwhelmed.jpg" class="img-responsive" alt="Homework Help">
+          <img src="/images/student_thinking.jpg" class="img-responsive" alt="Homework Help">
         </div>
       </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math Help Hours &amp; Location
+title: Math Help Hours & Location
 ---
 
 <!-- main start -->
@@ -14,9 +14,8 @@ title: Math Help Hours &amp; Location
         <div class="col-md-6">
           <img src="/images/centennial_pavilion.jpg" class="img-responsive" alt="Math Tutoring Location">
           <p class="lead">Centennial Pavilion<br>
-             7830 W. Ann Road #120<br>
-             Las Vegas, NV<br>
-             (inside main lobby and to the left between "Bunker Dance Center" and "Above the Crust")</p>
+             7830 W. Ann Road #110<br>
+             Las Vegas, NV</p>
         </div>
         
         <div class="col-md-6">
@@ -30,7 +29,7 @@ title: Math Help Hours &amp; Location
               <tbody>
                 <tr>
                   <td>Monday - Thursday</td>
-                  <td>3:30 - 8 pm</td>
+                  <td>2:30 - 8 pm</td>
                 </tr>
                 <tr>
                   <td>Friday</td>
