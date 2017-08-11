@@ -36,8 +36,8 @@
               <ul class="list-icons">
                 <li><i class="fa fa-map-marker pr-10 text-default"></i> Centennial Pavilion
                 <br> 7830 W. Ann Road #120<br>Las Vegas, NV</li>
-                <li><i class="fa fa-phone pr-10 text-default"></i> 702-325-9610</li>
-                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>dayleentaylor@gmail.com</a></li>
+                <li><i class="fa fa-phone pr-10 text-default"></i> {{ site.phone }}</li>
+                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>{{ site.email }}</a></li>
               </ul>
               <a class="collapsed map-show btn-lg-link padding-hor-clear" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap"><i class="fa fa-map pr-20"></i>Show Map</a>
             </div>
@@ -47,7 +47,7 @@
               <h2 class="title">Follow Us</h2>
               <p>Connect with us on Social Media</p>
               <ul class="social-links circle animated-effect-1">
-                <li class="facebook"><a target="_blank" href="https://facebook.com/easyaspimathematics?pnref=lhc"><i class="fa fa-facebook"></i></a></li>
+                <li class="facebook"><a target="_blank" href="{{ site.facebook_url }}"><i class="fa fa-facebook"></i></a></li>
                 <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
                 <li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
               </ul>

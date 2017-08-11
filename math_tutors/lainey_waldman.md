@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Las Vegas Math Tutor Lainey Waldman
 ---
 <!-- main start -->
 <div class="main col-12">

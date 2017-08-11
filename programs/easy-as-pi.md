@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Easy as Pi Math Program
 ---
 
 <!-- main start -->
@@ -11,11 +12,11 @@ layout: page
       <div class="row">
         <div class="col-md-7 push-lg-5">
           <p>Registration fee: $50 - This includes initial testing of child and development of an individualized math program.</p>
-          <p>The monthly fee includes an hour and a half at Easy as Pi Mathematics on the day or days registered.  This includes tutoring and help with homework with a ratio of 1-4 students to 1 tutor (guaranteed not to ever be more than 4 to 1).  The kids will be split up by age.  High School Students and Middle School students will have their own separate areas.  Once homework is finished, the child will be given games, worksheets, etc. from their individualized program that will help them master and practice math skills that will make math easier for them in the school setting.</p>
+          <p>The monthly fee includes an hour and a half at Easy as Pi Mathematics on the day or days registered.  This includes tutoring and help with homework with a ratio 1:1 to 3:1 student tutor ratio (guaranteed to never be more than 4:1).  The kids will be split up by age.  High School Students and Middle School students will have their own separate areas.  Once homework is finished, the child will be given games, worksheets, etc. from their individualized program that will help them master and practice math skills that will make math easier for them in the school setting.</p>
           <p>Once a tutor feels that a child is mastering one of the skills that they are working on, they will be tested on that skill and moved up to a new level.   Incentives will also be offered, from building contests, parties and free building time.</p>
         </div>
         <div class="col-md-5 pull-lg-7">
-          <img src="/images/student_thinking.jpg" class="img-responsive" alt="Math Tutoring Program">
+          <img src="/images/addition_quiz.jpg" class="img-responsive" alt="Math Tutoring Program">
         </div>
       </div>
 

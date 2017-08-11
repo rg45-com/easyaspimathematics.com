@@ -20,3 +20,7 @@ body {
 .plan ul li {
     font-size: 15px;
 }
+
+.collapse-style-2 .card-header a {
+    background-color: #3697d9;
+}

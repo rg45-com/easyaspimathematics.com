@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Las Vegas Math Tutor Jackson Kelly
 ---
 <!-- main start -->
 <div class="main col-12">

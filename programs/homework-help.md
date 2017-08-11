@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Math Homework Help
 ---
 
 <!-- main start -->
