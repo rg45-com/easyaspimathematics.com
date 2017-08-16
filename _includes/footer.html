@@ -24,6 +24,7 @@
 <!-- ================ -->
 <footer id="footer" class="clearfix">
 
+
   <!-- .footer start -->
   <!-- ================ -->
   <div class="footer">
@@ -35,9 +36,9 @@
               <h2 class="title">Find Us</h2>
               <ul class="list-icons">
                 <li><i class="fa fa-map-marker pr-10 text-default"></i> Centennial Pavilion
-                <br> 7830 W. Ann Road #120<br>Las Vegas, NV</li>
+                <br> 7830 W. Ann Road #110<br>Las Vegas, NV</li>
                 <li><i class="fa fa-phone pr-10 text-default"></i> {{ site.phone }}</li>
-                <li><a href="mailto:info@theproject.com"><i class="fa fa-envelope-o pr-10"></i>{{ site.email }}</a></li>
+                <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o pr-10"></i>{{ site.email }}</a></li>
               </ul>
               <a class="collapsed map-show btn-lg-link padding-hor-clear" data-toggle="collapse" href="#collapseMap" aria-expanded="false" aria-controls="collapseMap"><i class="fa fa-map pr-20"></i>Show Map</a>
             </div>
@@ -48,8 +49,10 @@
               <p>Connect with us on Social Media</p>
               <ul class="social-links circle animated-effect-1">
                 <li class="facebook"><a target="_blank" href="{{ site.facebook_url }}"><i class="fa fa-facebook"></i></a></li>
+<!--
                 <li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
                 <li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+-->
               </ul>
             </div>
           </div>
@@ -64,7 +67,7 @@
               <div class="alert alert-danger hidden-xs-up" id="MessageNotSent2">
                 Oops! Something went wrong please refresh the page and try again.
               </div>
-              <form id="footer-form" class="margin-clear">
+              <form id="footer-form" class="margin-clear" netlify name="contact" action="thank-you">
                 <div class="row">
                   <div class="col-md-6 form-group has-feedback mb-10">
                     <label class="sr-only" for="name2">Name</label>
@@ -98,6 +101,7 @@
     </div>
   </div>
   <!-- .footer end -->
+
 
   <!-- .subfooter start -->
   <!-- ================ -->
