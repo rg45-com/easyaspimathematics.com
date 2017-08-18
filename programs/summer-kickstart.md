@@ -22,7 +22,7 @@ title: Math & Science Summer Camps
                             
         </div>
         <div class="col-md-5 pull-md-7">
-          <img src="/images/board_work.jpg" class="img-responsive" alt="Math Summer Kickstart Program">
+          <img src="/images/tutor_classroom.jpg" class="img-responsive" alt="Math Summer Kickstart Program">
         </div>
       </div>
 
