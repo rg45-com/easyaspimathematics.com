@@ -24,3 +24,8 @@ body {
 .collapse-style-2 .card-header a {
     background-color: #3697d9;
 }
+
+.contact-h {
+    display: none;
+    visibility: hidden;
+}

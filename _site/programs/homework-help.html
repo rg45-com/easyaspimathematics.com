@@ -379,7 +379,10 @@
             <div class="footer-content">
               <a name="contact-form"></a>
               <h2 class="title">Contact Us</h2>
-              <form id="footer-form" class="margin-clear" netlify name="contact" action="thank-you">
+              <form id="footer-form" class="margin-clear" netlify name="contact" netlify-honeypot="overlords-here" action="thank-you">
+                <p class="contact-h">
+                  <label>Any overlords present? <input name="overlords-here"></label>
+                </p>
                 <div class="row">
                   <div class="col-md-6 form-group has-feedback mb-10">
                     <label class="sr-only" for="name">Name</label>
