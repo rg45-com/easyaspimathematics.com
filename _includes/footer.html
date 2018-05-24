@@ -1,3 +1,12 @@
+{% if page.link == "kickstart" %}
+  {% assign linkLoc = "https://campscui.active.com/orgs/EasyasPiMathematics?orglink=camps-registration#/selectSessions/2441702" %}
+{% elsif page.link == "camp" %}
+  {% assign linkLoc = "https://campscui.active.com/orgs/EasyasPiMathematics?orglink=camps-registration#/selectSessions/2441602" %}
+{% else %}
+  {% assign linkLoc = "https://campscui.active.com/orgs/EasyasPiMathematics" %}
+{% endif %}
+
+
 <!-- footer top start -->
 <!-- ================ -->
 <div class="default-translucent-bg footer-top border-clear">
@@ -10,7 +19,7 @@
               <h2 class="mt-4">Help your child succeed at Math</h2>
             </div>
             <div class="col-md-4">
-              <p class="mt-10"><a href="https://campscui.active.com/orgs/EasyasPiMathematics" class="btn btn-animated btn-lg btn-default radius-50" target="_blank">Register Now<i class="fa fa-cart-arrow-down pl-20"></i></a></p>
+              <p class="mt-10"><a href="{{ linkLoc }}" class="btn btn-animated btn-lg btn-default radius-50" target="_blank">Register Now<i class="fa fa-cart-arrow-down pl-20"></i></a></p>
             </div>
           </div>
         </div>
@@ -107,7 +116,9 @@
       <div class="subfooter-inner">
         <div class="row">
           <div class="col-md-6">
-            <p class="text-center">Copyright 2017 Easy As Pi Mathematics. All Rights Reserved</p>
+            <p class="text-center">&copy; <span id="copyright">
+              <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script>
+          </span> Easy As Pi Mathematics. All Rights Reserved</p>
           </div>
           <div class="col-md-3">
             <p class="text-center"><a href="/easyaspi_job_app.pdf" target="_blank" title="Easy As Pi Job Application">Interested in Tutoring?</a></p>

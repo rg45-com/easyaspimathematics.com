@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Math & Science Summer Camps
+link: camp
 ---
 
 <!-- main start -->
@@ -49,10 +50,24 @@ title: Math & Science Summer Camps
                   </div>
                 </div>
                 <div class="card">
+                  <div class="card-header" role="tab" id="headingThree-2">
+                    <h4 class="mb-0">
+                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseThree-2" aria-expanded="false" aria-controls="collapseThree-2">
+                        <i class="fa fa-user-circle-o pr-10"></i>June 11-15 - Engineering/Human Body
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="collapseThree-2" class="collapse" role="tabpanel" aria-labelledby="headingThree-2">
+                    <div class="card-block">
+                      This week will be full of tinkering and building.  We will spend a day learning about construction and building a bridge.  Another day learning about the force of air and water.  Another day spent on magnetism (my favorite).  Another day spent on electricity and building a working circuit.  We will also add in the Human Body, and build a working model of the hand.  We will have fun by learning about inertia by having a water balloon toss and other experiments with levers and gears.  This will be a very hands on week of fun! 
+                    </div>
+                  </div>
+                </div>
+                <div class="card">
                   <div class="card-header" role="tab" id="headingTwo-2">
                     <h4 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseTwo-2" aria-expanded="false" aria-controls="collapseTwo-2">
-                        <i class="fa fa-rocket pr-10"></i>June 11-15 - Space/Flight
+                        <i class="fa fa-rocket pr-10"></i>June 18-22 - Space/Flight
                       </a>
                     </h4>
                   </div>
@@ -66,27 +81,13 @@ title: Math & Science Summer Camps
                   <div class="card-header" role="tab" id="headingEight-2">
                     <h4 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseEight-2" aria-expanded="false" aria-controls="collapseEight-2">
-                        <i class="fa fa-globe pr-10"></i>June 18-22 - Earth/Animals
+                        <i class="fa fa-globe pr-10"></i>June 25-29 - Earth/Animals
                       </a>
                     </h4>
                   </div>
                   <div id="collapseEight-2" class="collapse" role="tabpanel" aria-labelledby="headingEight-2">
                     <div class="card-block">
                       There is so much fun stuff to do during Earth week!  From volcanoes to plants, to crystals, plants and animals.  During the week each child will get to break their own geode and learn about photosynthesis.  They will also do experiments with gravity, decomposition, how plants grow, and study animal behavior.  What a fun week!
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" role="tab" id="headingThree-2">
-                    <h4 class="mb-0">
-                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseThree-2" aria-expanded="false" aria-controls="collapseThree-2">
-                        <i class="fa fa-user-circle-o pr-10"></i>June 25-29 - Engineering/Human Body
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapseThree-2" class="collapse" role="tabpanel" aria-labelledby="headingThree-2">
-                    <div class="card-block">
-                      This week will be full of tinkering and building.  We will spend a day learning about construction and building a bridge.  Another day learning about the force of air and water.  Another day spent on magnetism (my favorite).  Another day spent on electricity and building a working circuit.  We will also add in the Human Body, and build a working model of the hand.  We will have fun by learning about inertia by having a water balloon toss and other experiments with levers and gears.  This will be a very hands on week of fun! 
                     </div>
                   </div>
                 </div>
@@ -105,10 +106,25 @@ title: Math & Science Summer Camps
                   </div>
                 </div>
                 <div class="card">
+                  <div class="card-header" role="tab" id="headingThree-2">
+                    <h4 class="mb-0">
+                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseThree-2" aria-expanded="false" aria-controls="collapseThree-2">
+                        <i class="fa fa-user-circle-o pr-10"></i>July 23-27 - Engineering/Human Body
+                      </a>
+                    </h4>
+                  </div>
+                  <div id="collapseThree-2" class="collapse" role="tabpanel" aria-labelledby="headingThree-2">
+                    <div class="card-block">
+                      This week will be full of tinkering and building.  We will spend a day learning about construction and building a bridge.  Another day learning about the force of air and water.  Another day spent on magnetism (my favorite).  Another day spent on electricity and building a working circuit.  We will also add in the Human Body, and build a working model of the hand.  We will have fun by learning about inertia by having a water balloon toss and other experiments with levers and gears.  This will be a very hands on week of fun! 
+                    </div>
+                  </div>
+                </div>
+
+                <div class="card">
                   <div class="card-header" role="tab" id="headingSix-2">
                     <h4 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseSix-2" aria-expanded="false" aria-controls="collapseSix-2">
-                        <i class="fa fa-rocket pr-10"></i>July 23-27 - Space/Flight
+                        <i class="fa fa-rocket pr-10"></i>July 30 - August 3 - Space/Flight
                       </a>
                     </h4>
                   </div>
@@ -122,28 +138,13 @@ title: Math & Science Summer Camps
                   <div class="card-header" role="tab" id="headingFive-2">
                     <h4 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseFive-2" aria-expanded="false" aria-controls="collapseFive-2">
-                        <i class="fa fa-globe pr-10"></i>July 30-August 3 - Earth/Animals
+                        <i class="fa fa-globe pr-10"></i>August 6-10 - Earth/Animals
                       </a>
                     </h4>
                   </div>
                   <div id="collapseFive-2" class="collapse" role="tabpanel" aria-labelledby="headingFive-2">
                     <div class="card-block">
                       There is so much fun stuff to do during Earth week!  From volcanoes to plants, to crystals, plants and animals.  During the week each child will get to break their own geode and learn about photosynthesis.  They will also do experiments with gravity, decomposition, how plants grow, and study animal behavior.  What a fun week!
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="card">
-                  <div class="card-header" role="tab" id="headingSeven-2">
-                    <h4 class="mb-0">
-                      <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseSeven-2" aria-expanded="false" aria-controls="collapseSeven-2">
-                        <i class="fa fa-user-circle-o pr-10"></i>August 6-10 - Engineering/Human Body
-                      </a>
-                    </h4>
-                  </div>
-                  <div id="collapseSeven-2" class="collapse" role="tabpanel" aria-labelledby="headingSeven-2">
-                    <div class="card-block">
-                      This week will be full of tinkering and building.  We will spend a day learning about construction and building a bridge.  Another day learning about the force of air and water.  Another day spent on magnetism (my favorite).  Another day spent on electricity and building a working circuit.  We will also add in the Human Body, and build a working model of the hand.  We will have fun by learning about inertia by having a water balloon toss and other experiments with levers and gears.  This will be a very hands on week of fun! 
                     </div>
                   </div>
                 </div>
