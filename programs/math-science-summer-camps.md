@@ -138,13 +138,13 @@ link: camp
                   <div class="card-header" role="tab" id="headingFive-2">
                     <h4 class="mb-0">
                       <a class="collapsed" data-toggle="collapse" data-parent="#accordion-2" href="#collapseFive-2" aria-expanded="false" aria-controls="collapseFive-2">
-                        <i class="fa fa-globe pr-10"></i>August 6-10 - Earth/Animals
+                        <i class="fa fa-globe pr-10"></i>August 6-10 - Chemistry/Music
                       </a>
                     </h4>
                   </div>
                   <div id="collapseFive-2" class="collapse" role="tabpanel" aria-labelledby="headingFive-2">
                     <div class="card-block">
-                      There is so much fun stuff to do during Earth week!  From volcanoes to plants, to crystals, plants and animals.  During the week each child will get to break their own geode and learn about photosynthesis.  They will also do experiments with gravity, decomposition, how plants grow, and study animal behavior.  What a fun week!
+                      Learn about acids and bases and what they do.  Learn about the periodic table and what a balanced chemical equation is.  Experiment with acids and bases and write the balanced equations.  Build a volcano and watch it explode. Make slime. Experiments include: density, fizzy interactions, movement of metals, chemical properties of gas, liquid and solid and more!  We will definitely be using the microscope, goggles and lab coats this week!
                     </div>
                   </div>
                 </div>
