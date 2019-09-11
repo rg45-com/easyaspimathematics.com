@@ -43,3 +43,4 @@ exclude:
    - vendor/ruby/
    - creative
    - readme.txt
+   - easyAsPie.code-workspace

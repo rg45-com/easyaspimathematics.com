@@ -14,7 +14,7 @@ link: kickstart
 </p>
       <div class="row">
         <div class="col-md-7 push-md-5">
-          <h2>Summer Schedule 2018</h2>
+          <h2>Summer Schedule</h2>
             <ul>
               <li><strong>Class times</strong> (<em>price includes <strong>1 slot per day</strong>; pick your preferred time slot</em>):</li>
               <li>8:30am - 10am</li>

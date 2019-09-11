@@ -33,7 +33,7 @@ title: Easy as Pi Math Program
                   <!-- pricing table start -->
                   <div class="col-md-4 plan">
                     <div class="header red-bg">
-                      <h3>3 Mo. Plan</h3>
+                      <h3>Month-to-Month Plan</h3>
                       <div class="price">From <span>$175</span>/m</div>
                     </div>
                     <ul class="shadow light-gray-bg bordered">

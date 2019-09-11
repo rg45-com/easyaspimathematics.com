@@ -31,7 +31,7 @@ link: camp
       <div class="separator mb-20"></div>
       <div class="row">
         <div class="col-md-7 push-md-5">
-          <h2>Summer Schedule 2018</h2>
+          <h2>Summer Schedule</h2>
               <!-- accordion start -->
               <!-- ================ -->
               <div id="accordion-2" class="collapse-style-2" role="tablist" aria-multiselectable="true">
