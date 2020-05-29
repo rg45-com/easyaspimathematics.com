@@ -32,9 +32,10 @@ link: camp
       <div class="row">
         <div class="col-md-7 push-md-5">
           <h2>Summer Schedule</h2>
+            <p class="large"><b>Due to coronavirus there will be no summer camps this summer, but we are offering private and semi-private math tutoring to help your kids get ready for the new school year.</b>  Details are below.</p>
               <!-- accordion start -->
               <!-- ================ -->
-              <div id="accordion-2" class="collapse-style-2" role="tablist" aria-multiselectable="true">
+              <!-- <div id="accordion-2" class="collapse-style-2" role="tablist" aria-multiselectable="true">
                 <div class="card">
                   <div class="card-header" role="tab" id="headingOne-2">
                     <h4 class="mb-0">
@@ -148,8 +149,8 @@ link: camp
                     </div>
                   </div>
                 </div>
-              </div>
-              <!-- accordion end -->                  
+              </div> -->
+              <!-- accordion end -->
         </div>
         <div class="col-md-5 pull-md-7">
           <img src="/images/sunshine.jpg" class="img-responsive" alt="Summer Math Camp">
@@ -157,15 +158,14 @@ link: camp
       </div>
 
       <!-- section start -->
-      <!-- ================ -->
-      <section class="clearfix space-top">
+
+      {%- comment -%} <section class="clearfix space-top">
         <div class="container">
           <div class="row">
             <div class="col-md-6 offset-md-3">
-              <!-- pricing tables start -->
-              <!-- ================ -->
+
               <div class="pricing-tables object-non-visible" data-animation-effect="fadeInUpSmall"  data-effect-delay="0">
-                  <!-- pricing table start -->
+
                   <div class="plan">
                     <div class="header green-bg">
                       <h3>Summer Camps</h3>
@@ -177,14 +177,79 @@ link: camp
                       <li>Ask about a sibling discount also!</li>
                     </ul>
                     <small>Students are asked to bring their own lunch, or lunch can be purchased for the week for $30.<br>
-                       If before or after care is needed, it will be available for $10/hr or $15/hr for 2 children.</small>
+                      If before or after care is needed, it will be available for $10/hr or $15/hr for 2 children.</small>
+                  </div>    
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </section> {%- endcomment -%}
+      <!-- section end -->
+
+      <!-- section start -->
+      <!-- ================ -->
+      <section class="clearfix space-top">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 offset-md-1">
+            
+              <div class="pricing-tables object-non-visible" data-animation-effect="fadeInUpSmall"  data-effect-delay="0">
+                  {%- comment -%} <!-- standard pricing table start -->
+                  <div class="plan">
+                    <div class="header blue-bg">
+                      <h3>Summer Kickstart</h3>
+                      <div class="price"><span>$149</span> per week</div>
+                    </div>
+                    <ul class="shadow light-gray-bg bordered">
+                      <li>Testing included <em>($50 value!)</em></li>
+                      <li>Multi-week discounts available</li>
+                      <li>Ask about a sibling discount also!</li>
+                    </ul>
+                  </div>
+                  <!-- standard pricing table end --> {%- endcomment -%}
+
+                  <!-- pricing table start -->
+                  <div class="plan">
+                    <div class="header green-bg">
+                      <h3>Private Tutoring</h3>
+                      <div class="price"><span>$25</span> per half-hour</div>
+                    </div>
+                    <ul class="shadow light-gray-bg bordered">
+                      <li>Up to 4 sessions per day</li>
+                      <li>Up to 2 hours per session</li>
+                      <li>Buy ten 30-minute sessions for $200 <em>(save $50)</em></li>
+                    </ul>
+                    <p class="mt-10"><a href="https://gal.re/e/fkO3vGNUL6" class="btn btn-animated btn-lg btn-default radius-50" target="_blank">Register Now<i class="fa fa-cart-arrow-down pl-20"></i></a></p>
                   </div>
                   <!-- pricing table end -->
                   
               </div>
-              <!-- pricing tables end -->
+              <!-- .pricing-tables end -->
 
             </div>
+
+            <div class="col-md-5 offset-md-1">
+              <div class="pricing-tables object-non-visible" data-animation-effect="fadeInUpSmall"  data-effect-delay="0">
+                 <!-- pricing table start -->
+                  <div class="plan">
+                    <div class="header blue-bg">
+                      <h3>Semi-Private Tutoring</h3>
+                      <div class="price"><span>$15</span> per half-hour</div>
+                    </div>
+                    <ul class="shadow light-gray-bg bordered">
+                      <li>Up to 4 sessions per day</li>
+                      <li>Up to 2 hours per session</li>
+                      <li>Buy ten 30-minute sessions for $130 <em>(save $20)</em></li>
+                    </ul>
+                    <p class="mt-10"><a href="https://gal.re/e/owB8WAeVL6" class="btn btn-animated btn-lg btn-default radius-50" target="_blank">Register Now<i class="fa fa-cart-arrow-down pl-20"></i></a></p>
+                  </div>
+                  <!-- pricing table end -->
+              </div>
+              <!-- .pricing-tables end -->
+            </div>
+
+
           </div>
         </div>
       </section>
