@@ -31,7 +31,7 @@ title: Math Private Phone Tutoring
                   <div class="col-md-6 plan">
                     <div class="header green-bg">
                       <h3>Semi-Private Tutoring</h3>
-                      <div class="price">From <span>$15</span> per half-hour</div>
+                      <div class="price"><span>$15</span> per half-hour</div>
                     </div>
                     <ul class="shadow light-gray-bg bordered">
                       <li>1 tutor to 2 student ratio</li>
@@ -44,7 +44,7 @@ title: Math Private Phone Tutoring
                   <div class="col-md-6 plan">
                     <div class="header blue-bg">
                       <h3>Private Tutoring</h3>
-                      <div class="price">From <span>$25</span> per half-hour</div>
+                      <div class="price"><span>$25</span> per half-hour</div>
                     </div>
                     <ul class="shadow light-gray-bg bordered">
                       <li>One-on-one tutor to student ratio</li>
@@ -85,7 +85,7 @@ title: Math Private Phone Tutoring
                   <div class="col-md-10 push-md-1 plan">
                     <div class="header green-bg">
                       <h3>Private Tutoring</h3>
-                      <div class="price">From <span>$30</span> per half-hour</div>
+                      <div class="price"><span>$30</span> per half-hour</div>
                     </div>
                     <ul class="shadow light-gray-bg bordered">
                       <li>One-on-one tutor to student ratio</li>
@@ -113,7 +113,7 @@ title: Math Private Phone Tutoring
           <h2>Phone Tutoring</h2>
           <p>Has your child ever been home working on homework and just needs help with one or two problems?  We now have phone tutoring available!</p>
           <p>If you are at home, and need help with a problem on your homework, you can just contact "Easy as Pi" and get help on that problem.</p>
-          <p>If it is a day you are registered for and you can't make it in, the first 30 minutes of phone tutoring are FREE, and then $0.50 cents a minute after that.  On a day you are not registered for, it is $10 for the first five minutes, and then $1 for each minute after that.</p>
+          <p>It is $10 for the first ten minutes, and then $0.50c for each minute after that.</p>
           <div class="pricing-tables object-non-visible" data-animation-effect="fadeInUpSmall"  data-effect-delay="0">
                 <div class="row">
                   <!-- pricing table start -->
@@ -123,8 +123,7 @@ title: Math Private Phone Tutoring
                       <div class="price">Low per-minute rates</div>
                     </div>
                     <ul class="shadow light-gray-bg bordered">
-                      <li>Registered Day - 30 mins FREE, then $0.50/minute</li>
-                      <li>Non-Registered Day - $10 + $1/minute after the first five minutes</li>
+                      <li>$10 for the first 10 minutes, then $0.50/minute</li>
                     </ul>
                   </div>
                   <!-- pricing table end -->
