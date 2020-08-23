@@ -3,6 +3,8 @@ layout: page
 title: Math Help Hours & Location
 ---
 
+{% include covid-precautions.html %}
+
 <!-- main start -->
 <div class="main col-12">
   <div class="row">

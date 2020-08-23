@@ -2,6 +2,9 @@
 layout: page
 title: Las Vegas Math Tutor Dayleen Taylor
 ---
+
+{% include covid-precautions.html %}
+
 <!-- main start -->
 <div class="main col-12">
   <div class="row">

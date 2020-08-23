@@ -3,6 +3,10 @@ layout: page
 title: Math Homework Help
 ---
 
+{% include covid-tutor-notice.html %}
+
+{% include covid-precautions.html %}
+
 <!-- main start -->
 <div class="main col-12">
   <div class="row">

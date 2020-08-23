@@ -4,6 +4,10 @@ title: Math & Science Summer Camps
 link: camp
 ---
 
+{% include covid-tutor-notice.html %}
+
+{% include covid-precautions.html %}
+
 <!-- main start -->
 <div class="main col-12">
   <div class="row">

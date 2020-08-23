@@ -3,6 +3,10 @@ layout: page
 title: Easy as Pi Math Program
 ---
 
+{% include covid-tutor-notice.html %}
+
+{% include covid-precautions.html %}
+
 <!-- main start -->
 <div class="main col-12">
   <div class="row">
