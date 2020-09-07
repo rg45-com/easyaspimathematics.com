@@ -32,3 +32,6 @@ easyAsPie.code-workspace
 #Jekyll specific
 .sass-cache
 .jekyll-metadata
+
+.bundle/
+vendor/

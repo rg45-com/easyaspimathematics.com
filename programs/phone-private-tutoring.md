@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math Private Phone Tutoring
+title: Math Private Tutoring
 ---
 
 {% include covid-precautions.html %}
@@ -9,7 +9,7 @@ title: Math Private Phone Tutoring
 <div class="main col-12">
   <div class="row">
     <div class="col-md-12">
-      <h1 class="page-title">Phone and Private Tutoring</h1>
+      <h1 class="page-title">Private Tutoring</h1>
       <div class="separator-2"></div>
       <div class="row">
 
